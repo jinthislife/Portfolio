@@ -3,7 +3,7 @@
 [English Vocab Quiz(공무원 영단어 퀴즈)](https://apps.apple.com/au/app/%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%98%81%EB%8B%A8%EC%96%B4-%ED%80%B4%EC%A6%88/id1464869171) helps Korean users learn advanced English vocabulary. It randomly generates 3 set of game from 2,500 word list daily and provides review menu for effective learning.
 
 <p align="center">
-<img src="images/EVocabQuiz/demo.gif" width="230"  title="Vocab Quiz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EVocabQuiz/homeView.jpg" width="230" title="Vocab Quiz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EVocabQuiz/review.jpg" width="226" title="Vocab Quiz">
+<img src="images/EVocabQuiz/spellgame.gif" width="230"  title="Vocab Quiz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EVocabQuiz/homeView.jpg" width="230" title="Vocab Quiz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EVocabQuiz/review.jpg" width="226" title="Vocab Quiz">
 </p>
 
 
