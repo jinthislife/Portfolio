@@ -22,7 +22,7 @@ Sole developer from an idea to deployment.
 
 
 # iPECS UCS
-[iPECS UCS](https://apps.apple.com/au/app/ipecs-ucs/id740488905)—is a collaboration application that provides presence, instant messaging, voice and video calling capabilities.
+[iPECS UCS](https://apps.apple.com/au/app/ipecs-ucs-6/id1239680008)—is a collaboration application that provides presence, instant messaging, voice and video calling capabilities.
 
 ### My Role:
 Instant messaging, call features and Core Data usage implementation.
