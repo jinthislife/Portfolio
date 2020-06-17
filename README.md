@@ -1,6 +1,6 @@
 # Foodie
 A food app providing restraunt information about price, location, photos, reviews and more.
-Built on Swift, UIKit, MapKit, Compositional Layout and Yelp Fusion Api.
+Built on Swift, UIKit, MapKit, Compositional Layout and Yelp Fusion API.
 
 
 <p align="center">
