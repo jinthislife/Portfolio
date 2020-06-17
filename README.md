@@ -4,7 +4,7 @@ Built on Swift, UIKit, MapKit, Compositional Layout and Yelp Fusion API.
 
 
 <p align="center">
-<img src="images/Foodie/home.png" width="230"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/placelist.png" width="230" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/detail.png" width="226" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/review.png" width="226" title="Foodie">
+<img src="images/Foodie/foodie.gif" width="230"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/home.png" width="230"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/placelist.png" width="230" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/detail.png" width="226" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/review.png" width="226" title="Foodie">
 </p>
 
 
