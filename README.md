@@ -1,20 +1,25 @@
-# Foodie
-A food app providing restraunt information about price, location, photos, reviews and more.
-Built on Swift, UIKit, MapKit, Compositional Layout and Yelp Fusion API.
+# URL Album
+URL Album is designed for users to collect their bookmarks from web and to visualize them through 3 different layout options.
+
+Launched in Jan 2021, the app will grow to have more features such as file operations, search, and integration with 3rd party Open Graph service.
+
+Technologies used: Swift, UIKit, Share extension, Core Data, App Groups, Cloud Kit
 
 
 <p align="center">
-<img src="images/Foodie/foodie.gif" width="230"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/home.png" width="230"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/placelist.png" width="230" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/detail.png" width="226" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/review.png" width="226" title="Foodie">
+<img src="images/URLAlbum/share.png" width="220"  title="share">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/grid.png" width="220" title="grid">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/smallgrid.png" width="220" title="smallgrid">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/list.png" width="220" title="list">
 </p>
 
 
 
-# English Vocab Quiz
-[English Vocab Quiz(공무원 영단어 퀴즈)](https://apps.apple.com/au/app/%EA%B3%B5%EB%AC%B4%EC%9B%90-%EC%98%81%EB%8B%A8%EC%96%B4-%ED%80%B4%EC%A6%88/id1464869171) helps Korean users learn advanced English vocabulary. It randomly generates 3 set of game from 2,500 word list daily and provides review menu for effective learning.
+# Foodie
+A food app providing restaurant information about price, location, photos, reviews, and more. I have been experimenting with building modern app layouts, Yelp Rest API, and some unit testings in this personal project.
+
+Technologies used: Swift, UIKit, MapKit, Compositional Layout.
 
 
 <p align="center">
-<img src="images/EVocabQuiz/spellgame.gif" width="230"  title="Vocab Quiz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EVocabQuiz/homeView.jpg" width="230" title="Vocab Quiz">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EVocabQuiz/review.jpg" width="226" title="Vocab Quiz">
+<img src="images/Foodie/foodie.gif" width="226"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/home.png" width="226"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/detail.png" width="226" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/review.png" width="226" title="Foodie">
 </p>
 
 
