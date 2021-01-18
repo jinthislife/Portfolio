@@ -1,6 +1,6 @@
 # URL Album
 
-<a href="https://apps.apple.com/app/id1548111446" rel="some text"><img src="images/appstorebadge.png" height="100"></a>
+<a href="https://apps.apple.com/app/id1548111446" rel="some text"><img src="images/appstorebadge.png" width="130"></a>
 
 URL Album is designed for users to collect their bookmarks from web and to visualize them through 3 different layout options.
 
@@ -47,7 +47,9 @@ Technologies used: Swift, UIKit, MapKit, Compositional Layout.
 
 
 # iPECS UCS
-[iPECS UCS](https://apps.apple.com/au/app/ipecs-ucs-6/id1239680008)—is a collaboration application that provides presence, instant messaging, voice and video calling capabilities. As a part of the team, I delveoped instant messaging, call features and Core Data wrapper.
+<a href="https://apps.apple.com/au/app/ipecs-ucs-6/id1239680008" rel="some text"><img src="images/appstorebadge.png" width="130"></a>
+
+iPECS UCS is a collaboration application that provides presence, instant messaging, voice and video calling capabilities. As a part of the team, I delveoped instant messaging, call features and Core Data wrapper.
 
 
 <p align="center">
