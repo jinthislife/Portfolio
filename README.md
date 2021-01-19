@@ -10,7 +10,7 @@ Technologies used: Swift, UIKit, Share extension, Core Data, App Groups, Cloud K
 
 
 <p align="center">
-<img src="images/URLAlbum/share.png" width="220"  title="share">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/grid.png" width="220" title="grid">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/smallgrid.png" width="220" title="smallgrid">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/list.png" width="220" title="list">
+<img src="images/URLAlbum/share.png" width="220"  title="share">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/grid.png" width="220" title="grid">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/URLAlbum/smallgrid.png" width="220" title="smallgrid">
 </p>
 
 
@@ -25,7 +25,7 @@ Technologies used: Swift, UIKit, MapKit, Compositional Layout.
 
 
 <p align="center">
-<img src="images/Foodie/foodie.gif" width="220"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/home.png" width="220"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/detail.png" width="220" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/review.png" width="220" title="Foodie">
+<img src="images/Foodie/foodie.gif" width="220"  title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/detail.png" width="220" title="Foodie">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Foodie/review.png" width="220" title="Foodie">
 </p>
 
 
