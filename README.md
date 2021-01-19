@@ -38,7 +38,7 @@ Technologies used: Swift, UIKit, MapKit, Compositional Layout.
 
 
 <p align="center">
-<img src="images/IELTSQ/ieltsq.gif" width="230"  title="IELTSQ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IELTSQ/ieltsq.jpg" width="230" title="IELTSQ">
+<img src="images/IELTSQ/ieltsq.gif" width="230"  title="IELTSQ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/IELTSQ/ieltsq.png" width="230" title="IELTSQ">
 </p>
 
 
